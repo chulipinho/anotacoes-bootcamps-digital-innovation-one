@@ -1,0 +1,3 @@
+[submodule "04-netflix-clone"]
+	path = 04-netflix-clone
+	url = https://github.com/chulipinho/netflix-clone.git
