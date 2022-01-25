@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #FFEA98                                           ;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.circular-img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.carousel-img {
+    width: 75%;
+}
+
+#parceiros {
+    background-color: #FFFCA2;
+}
+
+.servicos-img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+} 
+
+.container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.justified {
+    text-align: justify;
+}
+
+.footer-config {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    background-color: #FFEA98;
+}
+
+.footer-text {
+    margin: 0;
+}
+
+.navbar {
+    padding-left: 30px;
+}
