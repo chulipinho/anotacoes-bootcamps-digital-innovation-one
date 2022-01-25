@@ -1,6 +1,6 @@
-# Desafio de Projeto sobre Git/GitHub do DIO
+# Bootcamp Take Blip Web Developer
 
-Rpositório criado para o Desafio de Projeto
+Repositório contendo anotações e exercícios das aulas.
 
 ## Links úteis
 
