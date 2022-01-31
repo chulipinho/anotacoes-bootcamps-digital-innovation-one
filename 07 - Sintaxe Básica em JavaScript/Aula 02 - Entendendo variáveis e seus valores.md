@@ -43,7 +43,7 @@ Local - quando a variável é declarada dentro de um bloco, sua visibilidade pod
 
 - Nomear com letras, underscore (_) ou $
 
-- Não utilizar números ou espaços na nomeação
+- Não utilizar apenas números ou espaços na nomeação
 
 - não usar palavras reservadas
 
