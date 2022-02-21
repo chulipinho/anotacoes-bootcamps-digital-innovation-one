@@ -7,3 +7,6 @@
 [submodule "15-jogo-de-naves"]
 	path = 15-jogo-de-naves
 	url = https://github.com/chulipinho/spaceship-game.git
+[submodule "netflix-clone"]
+	path = netflix-clone
+	url = https://github.com/chulipinho/netflix-clone.git
