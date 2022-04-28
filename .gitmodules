@@ -1,9 +1,3 @@
-[submodule "04-netflix-clone"]
-	path = 04-netflix-clone
-	url = https://github.com/chulipinho/netflix-clone.git
 [submodule "06 - Introdução ao JavaScript/Aula 05 - To-do list"]
 	path = 06 - Introdução ao JavaScript/Aula 05 - To-do list
 	url = https://github.com/chulipinho/to-do-list.git
-[submodule "15-jogo-de-naves"]
-	path = 15-jogo-de-naves
-	url = https://github.com/chulipinho/spaceship-game.git
